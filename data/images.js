@@ -91,28 +91,28 @@ const images = [
         horns: 2
     },
     {
-        url: 'https://cdn.modernfarmer.com/wp-content/uploads/2014/08/28476658_9c97f35096_o.jpg',
+        url: 'https://www.animalspot.net/wp-content/uploads/2019/02/Mouflon.jpg',
         title: 'Mouflon',
         description: 'Those horns though',
         keyword: 'mouflon',
         horns: 2
     },
     {
-        url: 'https://cdn.modernfarmer.com/wp-content/uploads/2014/08/addax.jpg',
+        url: 'https://www.iucn.org/sites/dev/files/styles/850x500_no_menu_article/public/import/img/15b_013_003_cropped_addax_termit_0609_reconyx_scf_3b__c__rabeilscf.jpg?itok=_q7vQNzA',
         title: 'Addax',
         description: 'This guy is basically extinct but survives well in captivity, so they\'re frequently found in zoos',
         keyword: 'addax',
         horns: 2
     },
     {
-        url: 'https://cbsnews3.cbsistatic.com/hub/i/r/2013/03/05/5b414225-a645-11e2-a3f0-029118418759/thumbnail/620x350/2d4cf24685b45c22912e64d2004fec8d/Baby_Mouflon_Wild_Sheep.jpg',
+        url: 'http://www.grotte-de-han.be/uploads/images/5549e265c8b3f.png',
         title: 'Baby mouflon',
         description: 'The cuteness that is a baby mouflon asleep',
         keyword: 'mouflon',
         horns: 2
     },
     {
-        url: 'https://cdn.modernfarmer.com/wp-content/uploads/2014/08/chameleon.jpg',
+        url: 'https://kids.sandiegozoo.org/sites/default/files/2018-10/animal-hero-jackson_0.jpg',
         title: 'Happy Jackson\'s Chameleon',
         description: 'These are really common in Hawaii',
         keyword: 'chameleon',
