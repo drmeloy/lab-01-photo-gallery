@@ -1,8 +1,8 @@
-export const renderFigure = () => {
+export const renderFigure = (image) => {
     const html = /*html*/`
         <figure>
             <p>${image.title}</p>
-                <img src=${image.url} alt=${image.description} class=${image.keyword} />
+                <img src="${image.url}" alt="${image.description}" class="${image.keyword}" />
             <figcaption>${image.description}</figcaption>
         </figure>
     `;

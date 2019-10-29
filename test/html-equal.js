@@ -16,10 +16,3 @@ QUnit.assert.htmlEqual = function(actual, expected) {
     const normalizedExpected = normalize(expected);
     QUnit.assert.equal(normalizedActual, normalizedExpected);
 };
-
-
-test('renderDomElement creates the correct HTML structure', assert => {
-    const htmlItem = //HTML Element I want generated
-    const result = renderDomElement(my, params)
-    assert.htmlEqual(htmlItem, result)
-});
